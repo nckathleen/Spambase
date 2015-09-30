@@ -1,6 +1,6 @@
 pandas
 numpy
-seaborn
 ipython[notebook]
 matplotlib
-pip install scikit-learn scipy
+scikit-learn
+scipy
